@@ -1,6 +1,6 @@
 [[How To Setup GitHub Runner]]
 
-## Mermaid Test
+## General
 
 ```mermaid 
 sequenceDiagram 
@@ -10,15 +10,20 @@ John-->>-Alice: Hi Alice, I can hear you!
 John-->>-Alice: I feel great! 
 ```
 
-## Something
+## Setup
 1234
 
-### Very
+### Install Dependencies
 
 test
 
-#### Very
+### Build System
 
 test
-##### Important
+#### Install Other Things
 test
+
+#### Install more things
+
+### Finish Setup
+Done
