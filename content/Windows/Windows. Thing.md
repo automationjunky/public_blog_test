@@ -1,5 +1,7 @@
 [[How To Setup GitHub Runner]]
 
+## Mermaid Test
+
 ```mermaid 
 sequenceDiagram 
 Alice->>+John: Hello John, how are you? 
@@ -8,3 +10,5 @@ John-->>-Alice: Hi Alice, I can hear you!
 John-->>-Alice: I feel great! 
 ```
 
+## Header Test
+1234
